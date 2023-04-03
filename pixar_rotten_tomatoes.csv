@@ -1,0 +1,25 @@
+﻿id,movie,release_year,tomatometer_rating,audience_rating,difference
+23,A Bugs Life,1998,92,73,19
+12,Brave,2012,78,75,3
+18,Cars,2006,74,79,-5
+13,Cars 2,2011,40,49,-9
+6,Cars 3,2017,69,69,0
+7,Coco,2017,97,94,3
+8,Finding Dory,2016,94,84,10
+20,Finding Nemo,2003,99,86,13
+5,Incredibles 2,2018,93,84,9
+10,Inside Out,2015,98,89,9
+1,Luca,2021,91,87,4
+21,Monsters Inc,2001,96,90,6
+11,Monsters University,2013,80,81,-1
+2,Onward,2020,88,95,-7
+17,Ratatouille,2007,96,87,9
+3,Soul,2020,95,88,7
+9,The Good Dinosaur,2015,76,64,12
+19,The Incredibles,2004,97,75,22
+24,Toy Story,1995,100,92,8
+22,Toy Story 2,1999,100,87,13
+14,Toy Story 3,2010,98,90,8
+4,Toy Story 4,2019,97,94,3
+15,Up,2009,98,90,8
+16,Wall-E,2008,95,90,5
