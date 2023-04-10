@@ -1,0 +1,353 @@
+﻿School System Code,School System Name,Site Code,Site Name,2021-2022 Student Count,2021-2022 Average Composite Score
+001,Acadia Parish,001005,Church Point High School,101,16.9
+001,Acadia Parish,001007,Crowley High School,109,16.9
+001,Acadia Parish,001017,Midland High School,56,17.3
+001,Acadia Parish,001021,Rayne High School,140,17.6
+001,Acadia Parish,001034,Iota High School,142,19.4
+JUV,Juvenile Site,001036,AMIKids Acadiana,<10,~
+002,Allen Parish,002001,Elizabeth High School,24,18.3
+002,Allen Parish,002002,Fairview High School,17,17.5
+002,Allen Parish,002004,Kinder High School,95,18.7
+002,Allen Parish,002006,Oakdale High School,53,18.8
+002,Allen Parish,002009,Oberlin High School,29,17.1
+002,Allen Parish,002010,Reeves High School,<10,~
+003,Ascension Parish,003003,Donaldsonville High School,95,15.1
+003,Ascension Parish,003005,East Ascension High School,403,18.2
+003,Ascension Parish,003014,St. Amant High School,512,19.8
+003,Ascension Parish,003016,Dutchtown High School,592,21.2
+004,Assumption Parish,004001,Assumption High School,184,16.8
+005,Avoyelles Parish,005004,Bunkie Magnet High School,102,16.3
+005,Avoyelles Parish,005016,Marksville High School,72,14.2
+005,Avoyelles Parish,005018,Avoyelles High School,88,14.8
+005,Avoyelles Parish,005025,LA School for Ag Science,67,19.8
+006,Beauregard Parish,006002,DeRidder High School,160,17.8
+006,Beauregard Parish,006004,East Beauregard High School,41,17.5
+006,Beauregard Parish,006008,Merryville High School,32,17.3
+006,Beauregard Parish,006010,Singer High School,14,15.9
+006,Beauregard Parish,006011,South Beauregard High School,90,18.8
+007,Bienville Parish,007001,Arcadia High School,35,15.3
+007,Bienville Parish,007003,Castor High School,36,18.1
+007,Bienville Parish,007006,Gibsland-Coleman High School,21,16.8
+007,Bienville Parish,007008,Ringgold High School,36,17.6
+007,Bienville Parish,007009,Saline High School,23,21.3
+008,Bossier Parish,008001,Airline High School,338,19.6
+008,Bossier Parish,008006,Benton High School,330,20.5
+008,Bossier Parish,008009,Bossier High School,143,15.9
+008,Bossier Parish,008017,Haughton High School,272,18.9
+008,Bossier Parish,008020,Parkway High School,274,18.6
+008,Bossier Parish,008022,Plain Dealing High School,23,16.2
+009,Caddo Parish,009008,C.E. Byrd High School,341,21.5
+009,Caddo Parish,009012,Caddo Parish Magnet High School,219,25.9
+009,Caddo Parish,009013,Captain Shreve High School,375,19.2
+009,Caddo Parish,009025,Green Oaks Performing Arts Academy,69,15.3
+009,Caddo Parish,009031,Huntington High School,197,15.3
+009,Caddo Parish,009042,North Caddo High School,69,16.7
+009,Caddo Parish,009045,Northwood High School,230,17
+009,Caddo Parish,009059,Southwood High School,300,15.7
+009,Caddo Parish,009069,Booker T. Washington New Technology High School,168,14
+009,Caddo Parish,009073,Woodlawn Leadership Academy,112,13.9
+009,Caddo Parish,009104,Academic Recovery Ombudsman,10,13.4
+009,Caddo Parish,009106,Magnolia School of Excellence,29,15.7
+009,Caddo Parish,009108,Pathways in Education-Louisiana Inc.,52,15.7
+009,Caddo Parish,009110,Caddo Virtual Academy,32,17.9
+010,Calcasieu Parish,010003,Alfred M. Barbe High School,405,19.9
+010,Calcasieu Parish,010004,Bell City High School,52,17.8
+010,Calcasieu Parish,010014,DeQuincy High School,77,17.5
+010,Calcasieu Parish,010025,Sam Houston High School,277,19.1
+010,Calcasieu Parish,010026,Iowa High School,131,17.5
+010,Calcasieu Parish,010033,LaGrange High School,154,15.9
+010,Calcasieu Parish,010051,Starks High School,27,17.1
+010,Calcasieu Parish,010052,Sulphur High School,373,18.5
+010,Calcasieu Parish,010056,Vinton High School,64,17.2
+010,Calcasieu Parish,010058,Washington/Marion Magnet High School,104,15.2
+010,Calcasieu Parish,010064,Westlake High School,112,17.2
+011,Caldwell Parish,011001,Caldwell Parish High School,88,16.1
+012,Cameron Parish,012003,Grand Lake High School,57,19.6
+012,Cameron Parish,012004,Hackberry High School,13,16.3
+012,Cameron Parish,012007,South Cameron High School,16,16.8
+013,Catahoula Parish,013001,Block High School,41,15.3
+013,Catahoula Parish,013002,Central High School,<10,~
+013,Catahoula Parish,013005,Harrisonburg High School,15,18.1
+013,Catahoula Parish,013011,Sicily Island High School,20,15.6
+014,Claiborne Parish,014004,Haynesville Jr./Sr. High School,28,15.2
+014,Claiborne Parish,014007,Homer High School,53,14
+014,Claiborne Parish,014011,Summerfield High School,20,16.7
+015,Concordia Parish,015002,Ferriday High School,79,15.3
+015,Concordia Parish,015006,Monterey High School,31,19.3
+015,Concordia Parish,015008,Vidalia High School,73,18.6
+015,Concordia Parish,015014,Concordia Education Center,<10,~
+016,DeSoto Parish,016004,Logansport High School,43,16.7
+016,DeSoto Parish,016007,Mansfield High School,91,15.9
+016,DeSoto Parish,016010,Stanley High School,31,18.8
+016,DeSoto Parish,016012,North DeSoto High School,174,19.4
+017,East Baton Rouge Parish,017001,Arlington Preparatory Academy,11,12.8
+017,East Baton Rouge Parish,017008,Baton Rouge Magnet High School,371,25.8
+017,East Baton Rouge Parish,017010,Belaire High School,113,13.8
+017,East Baton Rouge Parish,017016,Broadmoor Senior High School,177,14.2
+017,East Baton Rouge Parish,017038,Glen Oaks Senior High School,78,13.7
+017,East Baton Rouge Parish,017045,Istrouma High School,140,13.5
+017,East Baton Rouge Parish,017056,McKinley Senior High School,189,15.3
+017,East Baton Rouge Parish,017063,Northdale Superintendent's Academy,16,14.6
+017,East Baton Rouge Parish,017065,Northeast High School,57,15.6
+017,East Baton Rouge Parish,017079,Scotlandville Magnet High School,201,14.5
+017,East Baton Rouge Parish,017088,Tara High School,139,14.8
+017,East Baton Rouge Parish,017092,EBR Readiness Superintendent Academy,11,13.5
+017,East Baton Rouge Parish,017102,Woodlawn High School,289,16.7
+017,East Baton Rouge Parish,017133,Helix Mentorship STEAM Academy,96,16
+017,East Baton Rouge Parish,017138,Liberty High School,246,21.3
+017,East Baton Rouge Parish,017147,EBR Virtual Academy,62,16.6
+018,East Carroll Parish,018002,General Trass High School,59,14.2
+019,East Feliciana Parish,019014,East Feliciana High School,56,15.9
+019,East Feliciana Parish,019015,Slaughter Community Charter School,41,19.5
+020,Evangeline Parish,020001,Basile High School,49,17.9
+020,Evangeline Parish,020008,Mamou High School,88,18.6
+020,Evangeline Parish,020010,Pine Prairie High School,96,18
+020,Evangeline Parish,020014,Ville Platte High School,102,16.7
+021,Franklin Parish,021007,Franklin Parish High School,140,16
+022,Grant Parish,022004,Georgetown High School,19,18.1
+022,Grant Parish,022005,Grant High School,144,17.6
+022,Grant Parish,022006,Montgomery High School,25,16.8
+023,Iberia Parish,023007,Delcambre High School,68,19.1
+023,Iberia Parish,023015,Jeanerette Senior High School,46,15.4
+023,Iberia Parish,023020,Loreauville High School,88,18.4
+023,Iberia Parish,023022,Westgate High School,202,16.2
+023,Iberia Parish,023024,New Iberia Senior High School,265,18.5
+024,Iberville Parish,024010,Plaquemine Senior High School,208,17
+024,Iberville Parish,024017,White Castle High School,45,16.8
+024,Iberville Parish,024025,East Iberville Elementary/High School,37,17.7
+025,Jackson Parish,025005,Jonesboro-Hodge High School,50,15.3
+025,Jackson Parish,025007,Quitman High School,42,19.7
+025,Jackson Parish,025010,Weston High School,39,18.7
+026,Jefferson Parish,026010,Bonnabel Magnet Academy High School,205,16.2
+026,Jefferson Parish,026017,Helen Cox High School,178,15.6
+026,Jefferson Parish,026022,East Jefferson High School,203,16.6
+026,Jefferson Parish,026023,John Ehret High School,375,16.3
+026,Jefferson Parish,026029,Fisher Middle/High School,56,17.7
+026,Jefferson Parish,026031,Grand Isle High School,<10,~
+026,Jefferson Parish,026042,Haynes Academy School for Advanced Studies,123,29.6
+026,Jefferson Parish,026045,L.W. Higgins High School,198,15.2
+026,Jefferson Parish,026051,Grace King High School,241,17
+026,Jefferson Parish,026068,Riverdale High School,206,19.3
+026,Jefferson Parish,026080,West Jefferson High School,260,15.2
+026,Jefferson Parish,026105,Patrick F. Taylor Science & Technology Academy,123,29
+026,Jefferson Parish,026107,Thomas Jefferson High School for Advanced Studies,79,24
+026,Jefferson Parish,026112,Strehle Community School,20,13.9
+026,Jefferson Parish,026123,JCFA,12,17.1
+026,Jefferson Parish,026125,Kenner Discovery Health Sciences Academy,145,18
+026,Jefferson Parish,026128,Jefferson RISE Charter School,57,16.9
+026,Jefferson Parish,026133,Jefferson Virtual High School,28,16.5
+027,Jefferson Davis Parish,027001,Elton High School,23,16.7
+027,Jefferson Davis Parish,027004,Hathaway High School,45,19.3
+027,Jefferson Davis Parish,027006,Jennings High School,142,16.9
+027,Jefferson Davis Parish,027010,Lacassine High School,43,18
+027,Jefferson Davis Parish,027012,Lake Arthur High School,54,17.4
+027,Jefferson Davis Parish,027014,Welsh High School,65,17.8
+028,Lafayette Parish,028002,Acadiana High School,354,17
+028,Lafayette Parish,028010,Carencro High School,240,15.4
+028,Lafayette Parish,028011,O. Comeaux High School,251,17.6
+028,Lafayette Parish,028019,Lafayette High School,444,19.9
+028,Lafayette Parish,028027,Northside High School,104,15.3
+028,Lafayette Parish,028050,Lerosen Preparatory Academy,15,15.3
+028,Lafayette Parish,028053,Early College Academy,72,25.5
+028,Lafayette Parish,028054,David Thibodaux STEM Magnet Academy,156,20.4
+028,Lafayette Parish,028055,Southside High School,458,19.6
+028,Lafayette Parish,028056,Edward J Sam Accelerated School of Lafayette,42,16.6
+029,Lafourche Parish,029003,Central Lafourche High School,288,19.8
+029,Lafourche Parish,029026,South Lafourche High School,228,19.5
+029,Lafourche Parish,029029,Thibodaux High School,285,18.4
+029,Lafourche Parish,029040,Virtual Academy of Lafourche,38,17.3
+030,LaSalle Parish,030004,Jena High School,108,18.8
+030,LaSalle Parish,030006,LaSalle High School,44,18.6
+031,Lincoln Parish,031003,Choudrant High School,43,18.4
+031,Lincoln Parish,031013,Ruston High School,260,18.8
+031,Lincoln Parish,031014,Simsboro High School,38,17.5
+032,Livingston Parish,032002,Albany High School,105,17.4
+032,Livingston Parish,032005,Denham Springs High School,469,19.6
+032,Livingston Parish,032008,Doyle High School,80,19.7
+032,Livingston Parish,032009,French Settlement High School,60,18.8
+032,Livingston Parish,032012,Holden High School,34,19.7
+032,Livingston Parish,032014,Live Oak High School,333,19.7
+032,Livingston Parish,032017,Maurepas School,23,20.2
+032,Livingston Parish,032023,Springfield High School,76,18.1
+032,Livingston Parish,032024,Walker High School,430,18.6
+033,Madison Parish,033002,Madison High School,64,15.8
+034,Morehouse Parish,034002,Bastrop High School,140,15
+034,Morehouse Parish,034003,Beekman Charter School,70,18.3
+035,Natchitoches Parish,035009,Natchitoches Central High School,260,17.7
+035,Natchitoches Parish,035026,Lakeview Jr./Sr. High School,54,16.1
+035,Natchitoches Parish,035030,Natchitoches Parish Technical and Career Center,17,12.8
+R36,Orleans Parish,036132,Travis Hill School,10,16.3
+R36,Orleans Parish,360001,The NET Charter High School,23,13.5
+R36,Orleans Parish,360002,The NET 2 Charter High School,35,14.1
+R36,Orleans Parish,360003,New Orleans Accelerated High School,13,14.4
+R36,Orleans Parish,368001,Morris Jeff Community School,87,16.6
+R36,Orleans Parish,382001,Abramson Sci Academy,124,15.8
+R36,Orleans Parish,382002,G W Carver High School,161,14.6
+R36,Orleans Parish,382004,Livingston Collegiate Academy,103,15.7
+R36,Orleans Parish,385002,Walter L. Cohen College Prep,31,14.8
+R36,Orleans Parish,395005,Lord Beaconsfield Landry High School,157,14.9
+R36,Orleans Parish,397001,Sophie B. Wright Institute of Academic Excellence,93,18.4
+R36,Orleans Parish,398005,Frederick A. Douglass High School,134,16.7
+R36,Orleans Parish,398008,Booker T. Washington High School,119,15.9
+R36,Orleans Parish,398009,John F. Kennedy High School,124,15.1
+R36,Orleans Parish,3C7001,Rooted School,43,16.5
+R36,Orleans Parish,W31001,Dr. Martin Luther King Charter School for Sci Tech,41,13.8
+R36,Orleans Parish,WBB001,Benjamin Franklin High School,237,26.7
+R36,Orleans Parish,WBD001,Edna Karr High School,242,16.3
+R36,Orleans Parish,WBE001,Lusher Charter School,170,25.6
+R36,Orleans Parish,WBF001,Eleanor McMain Secondary School,180,15.5
+R36,Orleans Parish,WBI001,New Orleans Charter Science and Mathematics HS,109,17
+R36,Orleans Parish,WBM001,Sarah Towles Reed High School,73,15.5
+R36,Orleans Parish,WBU001,Rosenwald Collegiate Academy,88,15.6
+R36,Orleans Parish,WZB001,Warren Easton Charter High School,204,16.2
+037,Ouachita Parish,037019,Ouachita Parish High School,279,17.3
+037,Ouachita Parish,037032,Sterlington High School,113,19.5
+037,Ouachita Parish,037036,West Monroe High School,420,19.4
+037,Ouachita Parish,037046,West Ouachita High School,246,19.3
+037,Ouachita Parish,037049,Richwood High School,99,14.9
+038,Plaquemines Parish,038001,Belle Chasse High School,224,19.5
+038,Plaquemines Parish,038006,Phoenix High School,10,16.2
+038,Plaquemines Parish,038013,South Plaquemines High School,58,16.9
+039,Pointe Coupee Parish,039003,Livonia High School,127,16.9
+040,Rapides Parish,040003,Alexandria Senior High School,316,19.1
+040,Rapides Parish,040006,Bolton High School,99,17.4
+040,Rapides Parish,040011,Buckeye High School,135,18.7
+040,Rapides Parish,040014,Glenmora High School,55,17.9
+040,Rapides Parish,040028,Oak Hill High School,56,19.1
+040,Rapides Parish,040030,Peabody Magnet High School,170,14.9
+040,Rapides Parish,040033,Pineville High School,291,19.5
+040,Rapides Parish,040035,Plainview High School,18,19.6
+040,Rapides Parish,040037,Rapides High School,54,17
+040,Rapides Parish,040048,Tioga High School,217,17.8
+040,Rapides Parish,040055,Northwood High School,49,16.3
+041,Red River Parish,041002,Red River High School,69,15.5
+042,Richland Parish,042001,Delhi High School,35,13.5
+042,Richland Parish,042006,Mangham High School,52,17.5
+042,Richland Parish,042008,Rayville High School,69,15.8
+043,Sabine Parish,043001,Converse High School,49,18.5
+043,Sabine Parish,043002,Ebarb School,19,16.9
+043,Sabine Parish,043004,Florien High School,38,18.6
+043,Sabine Parish,043006,Many High School,83,18.4
+043,Sabine Parish,043008,Negreet High School,37,19.8
+043,Sabine Parish,043010,Pleasant Hill High School,22,17.4
+043,Sabine Parish,043012,Zwolle High School,59,16.7
+044,St. Bernard Parish,044006,Chalmette High School,520,17.6
+044,St. Bernard Parish,044019,C.F. Rowley Alternative School,14,13.3
+045,St. Charles Parish,045003,Destrehan High School,301,19.5
+045,St. Charles Parish,045005,Hahnville High School,364,17.9
+046,St. Helena Parish,046002,St. Helena College and Career Academy,82,14.3
+047,St. James Parish,047004,Lutcher High School,133,18.4
+047,St. James Parish,047008,St. James High School,84,18.3
+048,St. John the Baptist Parish,048001,East St. John High School,280,16
+048,St. John the Baptist Parish,048013,West St. John High School,44,15.8
+049,St. Landry Parish,049010,Eunice High School,159,17.7
+049,St. Landry Parish,049032,Opelousas Senior High School,161,16.3
+049,St. Landry Parish,049051,North Central High School,33,14.4
+049,St. Landry Parish,049052,Beau Chene High School,145,17.3
+049,St. Landry Parish,049053,Northwest High School,114,17.2
+049,St. Landry Parish,049056,Port Barre High School,77,18.3
+049,St. Landry Parish,049058,Magnet Academy for Cultural Arts,38,20.9
+050,St. Martin Parish,050004,Breaux Bridge High School,168,16.8
+050,St. Martin Parish,050008,Cecilia High School,144,16.5
+050,St. Martin Parish,050017,St. Martinville Senior High School,116,15.7
+051,St. Mary Parish,051006,Berwick High School,108,19.7
+051,St. Mary Parish,051007,Centerville High School,44,16.8
+051,St. Mary Parish,051012,Franklin Senior High School,60,15.3
+051,St. Mary Parish,051021,Morgan City High School,145,17.2
+051,St. Mary Parish,051024,Patterson High School,112,16.9
+051,St. Mary Parish,051039,West St. Mary High School,88,15.1
+052,St. Tammany Parish,052013,Covington High School,270,19.5
+052,St. Tammany Parish,052026,Mandeville High School,434,22.2
+052,St. Tammany Parish,052029,Pearl River High School,118,18.5
+052,St. Tammany Parish,052035,Salmen High School,199,17.2
+052,St. Tammany Parish,052037,Slidell High School,332,18.4
+052,St. Tammany Parish,052039,Northshore High School,339,21.4
+052,St. Tammany Parish,052052,Fontainebleau High School,327,20.8
+052,St. Tammany Parish,052061,Lakeshore High School,209,20.1
+053,Tangipahoa Parish,053002,Amite High Magnet,76,15.3
+053,Tangipahoa Parish,053009,Hammond High Magnet School,261,16.5
+053,Tangipahoa Parish,053012,Independence High Magnet,77,14.4
+053,Tangipahoa Parish,053015,Kentwood High Magnet School,38,13.8
+053,Tangipahoa Parish,053017,Loranger High School,165,16.4
+053,Tangipahoa Parish,053024,Ponchatoula High School,405,18.1
+053,Tangipahoa Parish,053029,Jewel M. Sumner High School,101,16.4
+054,Tensas Parish,054001,Tensas High School,36,14.8
+055,Terrebonne Parish,055005,H. L. Bourgeois High School,291,17.9
+055,Terrebonne Parish,055013,Ellender Memorial High School,157,16
+055,Terrebonne Parish,055034,South Terrebonne High School,195,18.5
+055,Terrebonne Parish,055036,Terrebonne High School,253,18.7
+056,Union Parish,056002,Downsville Community Charter School,16,16.8
+056,Union Parish,056004,Union Parish High School,98,15.1
+057,Vermilion Parish,057001,Abbeville High School,121,16.2
+057,Vermilion Parish,057006,Erath High School,139,18.7
+057,Vermilion Parish,057008,Gueydan High School,36,16.1
+057,Vermilion Parish,057013,Kaplan High School,110,17.8
+057,Vermilion Parish,057016,North Vermilion High School,159,19
+058,Vernon Parish,058001,Anacoco High School,44,20.2
+058,Vernon Parish,058003,Evans High School,21,18.4
+058,Vernon Parish,058004,Hicks High School,20,19.3
+058,Vernon Parish,058005,Hornbeck High School,14,17.8
+058,Vernon Parish,058006,Leesville High School,173,18.1
+058,Vernon Parish,058009,Pickering High School,48,17
+058,Vernon Parish,058010,Pitkin High School,16,20.4
+058,Vernon Parish,058012,Rosepine High School,69,20.7
+058,Vernon Parish,058013,Simpson High School,21,17.8
+059,Washington Parish,059006,Franklinton High School,173,16.2
+059,Washington Parish,059007,Mt. Hermon School,22,17.9
+059,Washington Parish,059008,Pine School,77,17.2
+059,Washington Parish,059011,Varnado High School,39,15.4
+060,Webster Parish,060005,Doyline High School,30,16.1
+060,Webster Parish,060012,Minden High School,157,17
+060,Webster Parish,060018,Lakeside Junior-Senior High School,66,17
+060,Webster Parish,060019,North Webster High School,117,16.8
+061,West Baton Rouge Parish,061001,Brusly High School,167,18.8
+061,West Baton Rouge Parish,061008,Port Allen High School,82,17.6
+062,West Carroll Parish,062001,Epps High School,14,14.9
+062,West Carroll Parish,062003,Forest School,30,18.2
+062,West Carroll Parish,062005,Kilbourne High School,22,18
+062,West Carroll Parish,062006,Oak Grove High School,55,18.4
+063,West Feliciana Parish,063003,West Feliciana High School,144,20.4
+064,Winn Parish,064001,Atlanta High School,11,16.1
+064,Winn Parish,064002,Calvin High School,19,17.7
+064,Winn Parish,064003,Dodson High School,22,17.4
+064,Winn Parish,064009,Winnfield High School,77,16.5
+065,City of Monroe School District,065002,Carroll High School,104,15.6
+065,City of Monroe School District,065014,Neville High School,231,19.1
+065,City of Monroe School District,065018,Wossman High School,105,16.4
+065,City of Monroe School District,065023,Sherrouse School,<10,~
+066,City of Bogalusa School District,066002,Bogalusa High School,93,14.7
+067,Zachary Community School District,067004,Zachary High School,354,20.5
+068,City of Baker School District,068002,Baker High School,89,14.4
+069,Central Community School District,069004,Central High School,310,19.4
+101,Special School District,101031,Renaissance Home for Youth,<10,~
+302,Louisiana School for Math Science & the Arts,302006,Louisiana School for Math Science & the Arts,94,29.2
+304,LA Schools for the Deaf and Visually Impaired,304001,Louisiana School for the Deaf,<10,~
+304,LA Schools for the Deaf and Visually Impaired,304002,Louisiana School for the Visually Impaired,<10,~
+318,LSU Laboratory School,318001,LSU Laboratory School,122,25.2
+319,Southern University Lab School,319001,Southern University Lab School,41,16.9
+319,Southern University Lab School,319002,Southern University Laboratory Virtual School,<10,~
+333,Avoyelles Public Charter School,333001,Avoyelles Public Charter School,54,23.1
+334,New Orleans Center for Creative Arts,334001,New Orleans Center for Creative Arts,60,21.4
+336,Delhi Charter School,336001,Delhi Charter School,45,16.3
+341,D'Arbonne Woods Charter School,341001,D'Arbonne Woods Charter School,66,17.6
+343,"Community School for Apprenticeship Learning, Inc.",343001,Madison Preparatory Academy,137,16.6
+344,Voices for International Business & Education,344001,International High School of New Orleans,66,17.1
+345,"University View Academy, Inc. (FRM LA Connections)",345001,"University View Academy, Inc. (FRM LA Connections)",324,18.5
+348,New Orleans Military & Maritime Academy,348001,New Orleans Military & Maritime Academy,173,16.7
+3C1,Thrive Academy,3C1001,Thrive Academy,24,14.8
+3C4,Williams Scholar Academy Inc.,3C4001,Williams Scholar Academy,<10,~
+A02,Office of Juvenile Justice,A02002,Riverside Alternative High School,<10,~
+A02,Office of Juvenile Justice,A02003,Southside Alternative High School,<10,~
+A02,Office of Juvenile Justice,A02004,Central Southwest Alternative High School,<10,~
+W1A,JCFA-East,W1A001,JCFA-East,21,16
+W1D,JCFA Lafayette,W1D001,JCFA Lafayette,10,16.4
+W33,Lincoln Preparatory School,W33001,Lincoln Preparatory School,37,15
+W4A,Delta Charter Group,W4A001,Delta Charter School MST,25,18.6
+W4B,Lake Charles College Prep,W4B001,Lake Charles College Prep,91,16
+W5B,Northeast Claiborne Charter,W5B001,Northeast Claiborne Charter,11,17.5
+W6B,Acadiana Renaissance Charter Academy,W6B001,Acadiana Renaissance Charter Academy,<10,~
+RBR,Recovery School District - Baton Rouge,WA7001,Capitol High School,56,12.8
+WAG,Louisiana Virtual Charter Academy,WAG001,Louisiana Virtual Charter Academy,136,18.1
+WAL,JS Clark Leadership Academy,WAL001,JS Clark Leadership Academy,21,16.1
+WBQ,New Harmony High Institute,WBQ001,New Harmony High Institute,47,16.8
+WJ5,Collegiate Baton Rouge,WJ5001,Collegiate Baton Rouge,107,13.5
